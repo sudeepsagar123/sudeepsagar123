@@ -171,12 +171,12 @@ AI desktop assistant with Universal App Scanner
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudeepsagar123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&ring_color=58A6FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudeepsagar123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&ring_color=58A6FF&v=2" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=sudeepsagar123&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeepsagar123&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudeepsagar123&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&langs_count=8&v=2" alt="Top Languages" />
 </p>
 
 ---
@@ -184,11 +184,7 @@ AI desktop assistant with Universal App Scanner
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudeepsagar123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sudeepsagar123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies Backup" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudeepsagar123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&v=2" alt="GitHub Trophies" />
 </p>
 
 ---
